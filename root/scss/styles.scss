@@ -1,0 +1,25 @@
+body {
+    font-family:Quicksand;
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+  .carousel-item {
+    max-width: 98%;
+    padding-left: 2%;
+    }
+  @import "scss/_navegador";
+  @import "scss/_segundobloque";
+  @import "scss/_bloquevideo";
+  @import "scss/_ofertas";
+  @import "scss/_ultimobloque";
+
+  h5 {
+    font-family: Quiksand;
+    font-size: 20px;
+    position: relative;
+    left: 15px;
+  }
+  
+  #lista_p {
+    padding: 2%;
+  }

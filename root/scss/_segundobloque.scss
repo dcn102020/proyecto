@@ -1,0 +1,16 @@
+#segundobloque {
+    position: relative;
+    display: flex;
+    flex-flow: row;
+    padding: 2%;
+    padding-left: 5%;
+     #buscar {
+      width: 400px;
+      border-color: black;}
+       #boton_buscar {
+        color: white !important;
+        font-family: Quicksand;
+        border-radius: 10px;
+        background-color: black;
+        margin-left: 10px;}
+     }

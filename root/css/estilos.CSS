@@ -1,0 +1,119 @@
+body {
+  font-family: Quicksand;
+  max-width: 100%;
+  overflow-x: hidden; }
+
+.carousel-item {
+  max-width: 98%;
+  padding-left: 2%; }
+
+.container-fluid {
+  max-width: 100%;
+  background-color: white; }
+  .container-fluid h1 {
+    position: relative;
+    left: 20px; }
+  .container-fluid .nav-item {
+    font-size: 20px;
+    font-family: Quicksand;
+    font-weight: bold;
+    position: relative;
+    left: 5%;
+    top: 30px;
+    padding: 15px;
+    color: black !important; }
+
+#segundobloque {
+  position: relative;
+  display: flex;
+  flex-flow: row;
+  padding: 2%;
+  padding-left: 5%; }
+  #segundobloque #buscar {
+    width: 400px;
+    border-color: black; }
+  #segundobloque #boton_buscar {
+    color: white !important;
+    font-family: Quicksand;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 10px; }
+
+#video12 {
+  position: relative;
+  top: 20px;
+  left: 2%; }
+
+p {
+  font-family: Quicksand;
+  font-size: 20px;
+  font-weight: bold;
+  position: relative;
+  left: 5%; }
+
+#bar2 {
+  position: relative;
+  bottom: 300px;
+  left: 50%; }
+
+.flex {
+  background-color: white;
+  padding: 5%;
+  padding-top: 0px;
+  display: flex;
+  flex-direction: row;
+  position: relative; }
+
+.flex a {
+  margin: 2px; }
+
+.flex a :hover {
+  margin: 5px;
+  transition: height 1s, width 1s;
+  height: 250px;
+  width: 400px; }
+
+.ofertas {
+  position: relative;
+  left: 5%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 5px; }
+
+.grids {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  position: relative;
+  top: 50px;
+  padding-left: 5%; }
+
+#newsletter {
+  width: 220px; }
+
+#texto {
+  font-family: quicksand;
+  font-weight: bold; }
+
+#formulario {
+  position: relative;
+  top: 50px;
+  left: 10px;
+  margin: 5px; }
+
+footer {
+  font-weight: bold;
+  font-size: 12px;
+  background-color: #f6f6f6;
+  position: relative;
+  left: 50%;
+  top: 100px;
+  padding-bottom: 1%; }
+
+h5 {
+  font-family: Quiksand;
+  font-size: 20px;
+  position: relative;
+  left: 15px; }
+
+#lista_p {
+  padding: 2%; }
